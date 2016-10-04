@@ -1,0 +1,259 @@
+﻿
+.sqlrv-HorizontalPanels table
+{
+    border-collapse: separate;
+}
+
+.sqlrv-SeparatorContainer
+{
+	border:1px solid #BEC4D5;
+}
+
+.sqlrv-ExpandSeparator
+{
+	border:1px solid #FFFFFF;
+	vertical-align:middle;
+	background-color:#D9D9D9;
+}
+
+.sqlrv-CollapseSeparator
+{
+	border:1px solid #FFFFFF;
+	vertical-align:middle;
+	background-color:#D9D9D9;
+}
+
+.sqlrv-SplitterNormal
+{
+	background-color:#D9D9D9;
+}
+
+.sqlrv-ExpandSeparatorHover
+{
+	border:1px solid #FFFFFF;
+	vertical-align:middle;
+	background-color:#BBC4D9;
+}
+
+.sqlrv-CollapseSeparatorHover
+{
+	border:1px solid #FFFFFF;
+	vertical-align:middle;
+	background-color:#BBC4D9;
+}
+
+.sqlrv-SplitterHover
+{
+	background-color:#BBC4D9;
+}
+
+.sqlrv-SeparatorIcon
+{
+	margin: 3px;
+}
+
+.sqlrv-ApplyButton
+{
+	margin: 1ex;
+	font: 8pt tahoma;
+	padding-top: 0.3ex;
+	padding-bottom: 0.3ex;
+	padding-left: 1ex;
+	padding-right: 1ex;
+}
+
+.sqlrv-PromptAreaTitle
+{
+	padding-top: 0.5ex;
+	padding-bottom: 0.5ex;
+	padding-left: 1ex;
+	padding-right: 1ex;
+	font-weight: bold;
+	border-bottom: solid 1px #C4C4C4;
+	color: #595959;
+}
+
+.sqlrv-PromptAreaBackground, .sqlrv-PromptAreaBackground table
+{
+	background-color: #F2F2F2;
+}
+
+.sqlrv-PromptAreaFooter
+{
+	border-top:solid 1px #C8C8C8;
+}
+
+.sqlrv-DocumentMapBody
+{
+	margin: 0px;
+}
+
+.sqlrv-DocumentMapContent
+{
+}
+
+.sqlrv-DocumentMapTitle
+{
+}
+
+.sqlrv-DocumentMapBar
+{
+	background-color: #F2F2F2;
+	padding-right: 2ex;
+	padding-left: 2ex;
+	height: 2em;
+	line-height: 2em;
+	font-family: Tahoma;
+	font-size: 8pt;
+}
+
+.sqlrv-ParameterVerticalSpacer
+{
+	height: 1em;
+}
+
+.sqlrv-ParameterContainer
+{
+	padding: 1ex;
+}
+
+.sqlrv-ParameterContainerCell
+{
+	vertical-align:top;
+}
+
+.sqlrv-ActionMenuText
+{
+	padding-top:1px;
+	padding-bottom:2px;
+}
+
+.sqlrv-ToolBarText
+{
+	margin-left: 0.2em;
+	margin-right: 0.2em;
+}
+
+.sqlrv-DisabledLink
+{
+	color: gray !important;
+	text-decoration: none !important;
+	cursor: default !important;
+}
+
+.sqlrv-EmptyDropDown
+{
+	width: 15ex;
+}
+
+.sqlrv-Image
+{
+	height: 16px;
+	width: 16px;
+	margin: 0px;
+	padding: 0px;
+}
+
+.sqlrv-ImageHover
+{
+	cursor: pointer;
+	padding: 1px;
+}
+.sqlrv-ActionMenuHover
+{
+	cursor: pointer;
+	height:18px;
+	padding: 1px;
+	padding-top: 7px;
+	padding-left: 3px;
+	margin-left: 4px;
+}
+
+.sqlrv-ActionMenuNormal
+{
+	height:18px;
+	padding-top: 8px;
+	padding-left: 4px;
+	margin-left: 4px;
+}
+
+.sqlrv-WaitControlBackground
+{
+	cursor: wait;
+	padding: 15px;
+	background-color: #F2F2F2;
+	border: 1px solid black;
+}
+
+.sqlrv-WaitText
+{
+	font-size: 175%;
+}
+
+.sqlrv-WaitCell
+{
+	vertical-align: middle;
+	text-align: center;
+}
+
+.sqlrv-CancelLinkDiv
+{
+	margin-top: 3px;
+}
+
+.sqlrv-CancelLinkText
+{
+	font-family: Verdana;
+	font-weight: normal;
+	font-size: 8pt;
+}
+
+.sqlrv-SpacerCell
+{
+	width: 4ex;
+}
+
+.sqlrv-radiotext, .sqlrv-radiotext LABEL
+{
+	font-size: 8pt;
+	font-family: Verdana, sans-serif;
+	color: #000000;
+}
+.sqlrv-input
+{
+	font-size: 8pt;
+	font-family: Verdana, sans-serif;
+	color: #000000;
+}
+
+.sqlrv-MultiValueValidValueDropDown
+{
+	background-color: Window;
+	border: solid 1px DarkGray;
+}
+
+.sqlrv-MultiValueValidValueDropDown TABLE
+{
+	background-color: Window;
+}
+
+table.sqlrv-ToolBar
+{
+	height:30px;
+}
+
+.sqlrv-ToolBarCell
+{
+	padding:0px;
+}
+
+.sqlrv-WaitControlBackground {
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 175px;
+    height: 100px;
+}
